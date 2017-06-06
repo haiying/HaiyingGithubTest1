@@ -1,2 +1,3 @@
 # HaiyingGithubTest1
-first GitHub repository
+Haiying's first GitHub repository
+06/06/2017
